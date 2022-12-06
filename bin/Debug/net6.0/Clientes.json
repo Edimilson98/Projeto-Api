@@ -1,0 +1,28 @@
+﻿[
+  {
+    "id": 1,
+    "nome": "Edimilson",
+    "email": "edimilsontl98@gmail.com",
+    "contato": [
+      {
+        "email": "edimilsontl98@gmail.com",
+        "ddd": 33,
+        "telefone": 987517151
+      }
+    ],
+    "cpf": "13945685680",
+    "rg": "mg22331122",
+    "endereco": [
+      {
+        "cep": 39615000,
+        "logradouro": "Rua da Matriz",
+        "numero": "70A",
+        "bairro": "Centro",
+        "complemento": "Casa",
+        "cidade": "Ponto dos Volantes",
+        "estado": "MG",
+        "referencia": "Próximo a igreja matriz"
+      }
+    ]
+  }
+]
